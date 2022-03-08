@@ -1,0 +1,5 @@
+>ABC organism 1
+non-header data 1
+non-header data 2
+>DEF organism 2
+sequence data
