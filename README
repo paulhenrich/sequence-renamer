@@ -1,0 +1,5 @@
+Demo of reading file and writing out an editted version of the file that
+conforms to a new format to help a someone solve a bio-informatics problem. I
+don't know python and basically wrote this like I would write ruby and just
+read the docs as I went, so don't take this as perfectly idiomatic python (read
+the docs/PEPs for that!). -PH
