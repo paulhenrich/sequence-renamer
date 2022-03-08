@@ -1,5 +1,8 @@
-Demo of reading file and writing out an editted version of the file that
-conforms to a new format to help a someone solve a bio-informatics problem. I
-don't know python and basically wrote this like I would write ruby and just
-read the docs as I went, so don't take this as perfectly idiomatic python (read
-the docs/PEPs for that!). -PH
+Demo of reading two input files and writing an edited version of one of the
+files enriched with metadata from the other file. The purpose of this is to
+show a friend a way to solve a particular bio-informatics problem. As a demo
+there is no error handling, but an error here would likely indicate an error in
+an upstream tool.
+
+I am new to python and wrote this as if it were ruby, so please don't consider
+this instructional in terms of python style or idioms.
